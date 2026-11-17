@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Critical_Impact",
+    "Name": "Allagan Tools CN",
+    "InternalName": "InventoryToolsCN",
+    "AssemblyVersion": "1.15.1.2",
+    "Description": "Allagan Tools 的国服库存修复测试版。修复国服客户端中打开雇员道具栏或部队储物柜后库存未录入的问题。适用于国服卫月 API 15。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/AllaganTools-CN",
+    "Tags": [
+      "Inventory",
+      "Sorting",
+      "Filtering"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/AllaganTools-CN/main/icon.png",
+    "Punchline": "追踪角色背包、陆行鸟鞍囊、雇员和部队储物柜库存。",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/Alittlerecallinglittlebrother/AllaganTools-CN/releases/download/v1.15.1.2/AllaganTools-CN-1.15.1.2-Dev.zip",
+    "DownloadLinkUpdate": "https://github.com/Alittlerecallinglittlebrother/AllaganTools-CN/releases/download/v1.15.1.2/AllaganTools-CN-1.15.1.2-Dev.zip",
+    "Changelog": "修复国服打开雇员道具栏和部队储物柜后库存未录入的问题。使用独立插件标识，支持从自定义插件仓库安装。",
+    "LastUpdate": 1794918710
+  }
+]
